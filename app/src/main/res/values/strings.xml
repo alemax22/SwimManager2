@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Swim Manager</string>
+
+    <string name="navigation_drawer_open">Apri il menù di navigazione</string>
+    <string name="navigation_drawer_close">Chiudi il menù di navigazione</string>
+
+    <string name="action_settings">Impostazioni</string>
+
+    <!-- Genders -->
+    <string name="gender_unknown">Sconosciuto</string>
+    <string name="gender_male">Maschio</string>
+    <string name="gender_female">Femmina</string>
+
+    <!-- Sign in responses -->
+    <string name="sign_in_msg_success">Entrato</string>
+    <string name="sign_in_msg_cancelled">Registrazione Annullata!</string>
+    <string name="sign_in_msg_network_issue">Connessione a internet assente!</string>
+    <string name="sign_in_msg_unknown_error">Errore sconosciuto!</string>
+
+    <!-- Menu -->
+    <string name="log_out">Log out</string>
+
+    <!-- Drawer Menu options -->
+    <string name="competitive_swimmers">Atleti</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="groups">Gruppi</string>
+    <string name="competitions">Manifestazioni</string>
+
+    <!-- Categories -->
+    <string name="category_unknown">Sconosciuta</string>
+    <string name="category_propaganda">Propaganda</string>
+    <string name="category_esordiente_b">Esordienti B</string>
+    <string name="category_esordiente_a">Esordienti A</string>
+    <string name="category_categoria_ragazzi">Categoria Ragazzi</string>
+    <string name="category_categoria_junior">Categoria Juniores</string>
+    <string name="category_categoria_cadetti">Categoria Cadetti</string>
+    <string name="category_categoria_senior">Categoria Seniores</string>
+    <string name="category_master">Master</string>
+
+    <!-- Membership types -->
+    <string name="membership_unknown">Sconosciuto</string>
+    <string name="membership_propaganda">Propaganda</string>
+    <string name="membership_agonista">Agonista</string>
+    <string name="membership_master">Master</string>
+    <string name="delete_item_list">Rimuovi</string>
+
+</resources>
